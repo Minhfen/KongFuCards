@@ -1,0 +1,64 @@
+风格retro oriental cyber-city pixel-art character; warm-toned lighting (orange, brown, golden highlights); warm shadows and soft gradient shading; silhouette and outlines slightly dark but not harsh; pixel density similar to 32×32–64×64 style; low-saturation warm palette; subtle atmospheric hue as if illuminated by a warm city haze; main light source from upper right with gentle warm rim light on edges.
+给你原型人物根据以下提示词改变人物的动作
+风格retro oriental cyber-city pixel-art character; warm-toned lighting but more subtle and controlled (soft orange-brown hints rather than strong warm glow); gentle warm accents only on key surfaces; overall neutral-to-warm balance; warm shadows with soft gradient shading; silhouette and outlines slightly dark but not harsh; pixel density similar to 32×32–64×64; low-saturation warm palette with mild atmospheric haze; main light source from upper right with a light, restrained rim-light instead of a strong highlight; overall mood warm but not intense or overly bright.
+
+
+① Cheat 720 Double Kick（旋转 720 双击踢）
+English
+
+pixel character, pure white background; keep the original character’s appearance; change to a spinning 720 double-kick pose: body fully rotating mid-air; torso leaning back slightly; both legs extended at different timings during the spin; first kick aimed toward the front-right, second kick sweeping upward toward the front-left; arms spread for rotational balance; add exaggerated pixel impact effects around both kick directions (spin trails, speed rings, impact bursts, debris); clean silhouette, crisp pixel-art style.
+
+中文
+
+像素角色，纯白背景；保持角色原本外观；动作改为旋转 720 双击踢：角色腾空高速旋转，躯干微微后仰；双腿在旋转中分两次踢出；第一击朝右前方踢出，第二击向左前上方扫击；双臂张开维持旋转平衡；在两次踢击方向加入夸张像素特效（旋转拖尾、速度环、冲击爆裂、碎屑）；轮廓干净、像素画清晰利落。
+
+
+
+③ Downward Crescent Kick（下劈弧月踢）
+English
+
+pixel character, pure white background; keep original appearance; change to a downward crescent kick pose: body leaned slightly forward; right leg lifted high and cutting downward in a crescent arc toward the front-right; supporting leg slightly bent for balance; left arm raised defensively, right arm extending backward; add exaggerated downward impact effects (arc trail, falling strike burst, debris scatter); crisp pixel-art style.
+
+中文
+
+像素角色，纯白背景；保持原外观；改为下劈弧月踢：身体微微前倾，右腿抬高后以弧线向右前方下劈；支撑腿微屈保持平衡；左手抬起防御，右手向后展开；在下劈方向加入弧线拖尾、坠落式冲击爆裂、碎屑散落等特效；像素边缘干净利落。
+
+④ Side Kick（侧踢）
+
+（你之前已有，我按同风格再压缩整理）
+
+English
+
+pixel character, pure white background; keep original appearance; change to a strong side-kick pose: body rotated slightly left, torso leaning back; left leg supporting, right leg fully extended in a side kick toward the front-left; left arm guarding near chest, right arm slightly back for balance; add exaggerated pixel impact effects (burst, speed lines, debris); clean silhouette, crisp pixel-art style.
+
+中文
+
+像素角色，纯白背景；保持原外观；改为侧踢动作：身体略向左转，躯干微后仰；左腿支撑，右腿向左前方完全伸展踢出；左手在胸前防守，右手向后平衡；加入夸张冲击爆裂、速度线、碎屑等像素特效；轮廓干净。
+
+⑤ Spinning Back Elbow（旋转后肘击）
+English
+
+pixel character, pure white background; keep original appearance; change to a spinning back-elbow strike: body rotating sharply to the right; left arm pulled inward, right elbow driving toward the back-right direction; torso twisted strongly; legs staggered for rotational momentum; add heavy pixel impact effects at the elbow point (burst, speed arcs, vibration dots); crisp pixel-art style.
+
+中文
+
+像素角色，纯白背景；保持原外观；改为旋转后肘击：身体向右强力旋转，左臂收紧，右肘向右后方猛击；躯干剧烈扭转，双腿前后错步支撑旋转；在肘击点加入强烈像素冲击爆裂、速度弧线、震动点；像素画清晰有力。
+
+
+⑦ Stomach Punch（直击腹拳）
+English
+
+pixel character, pure white background; keep original appearance; change to a straight stomach punch pose: body leaning forward; right fist driving straight toward the front-center at mid-body height; left arm pulled back defensively; legs in forward stance; pixel impact burst concentrated at stomach-height; crisp pixel-art style.
+
+中文
+
+像素角色，纯白背景；保持原外观；改为腹部直拳：身体前倾，右拳直线冲击向正前方腹部高度；左臂后拉防守；双腿前后站位；在腹拳方向加入集中像素爆裂特效；画面干净有力。
+
+⑧ Double Fist Strike（双拳前冲）
+English
+
+pixel character, pure white background; keep original appearance; change to a double-fist lunge strike: body leaning forward aggressively; both fists thrust forward toward the front-right direction; legs wide apart with right leg forward; torso compressed then extending; add heavy pixel impact effects (dual impact burst, shock dots, debris); crisp pixel-art style.
+
+中文
+
+像素角色，纯白背景；保持原本外观；改为双拳突击：身体大幅前冲，双拳同时向右前方猛力推出；双腿大开步，右腿在前；躯干先缩再伸以增强冲击感；加入双重爆裂、震动点、碎屑等像素特效；轮廓干净利落。
