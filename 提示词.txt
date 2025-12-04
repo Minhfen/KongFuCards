@@ -1,1 +1,12 @@
+背景：Minimalistic 2D card background inspired by Hong Kong style and Jackie Chan movies, featuring subtle silhouettes of iconic Hong Kong elements. The background should have a smooth gradient from light at the top to dark at the bottom, with the colors transitioning from warm golden tones to deeper shades like red or brown. In the background, include subtle silhouettes of Hong Kong landmarks like traditional lanterns, street signs, or a city skyline, but keep them in the background as soft, faint shadows or outlines. The center should remain empty for card content. The overall style should evoke the atmosphere of Hong Kong cinema, with a clean, flat 2D aesthetic and a hint of dramatic action, but without overwhelming the design.
+
+
 帮我建一个工作流，我会输入三张图片，分别是卡牌的构图结构、招式示意图、人物图，我需要做的是根据招式示意图生成对应人物的招式表现图，再根据提示词生成卡牌背景，将卡牌背景和招式表现图按照卡牌结构图拼在一起
+卡牌设置边框，边框完全贴在图片的外边界上其非常简洁且很窄×
+给你背景，人物和招式，制作卡牌，让人物做出该招式出现在卡牌中间偏上的地方 ×
+给你人物和招式，制作卡牌，让人物做出该招式，透明底，700*700像素左右的大小，不要有文字
+根据给你的人物的风格，更新卡牌背景的风格
+我在使用nanobananapro模型绘制卡牌，先在我有以下要求：
+
+风格retro oriental cyber-city pixel-art character; warm-toned lighting (orange, brown, golden highlights); warm shadows and soft gradient shading; silhouette and outlines slightly dark but not harsh; pixel density similar to 32×32–64×64 style; low-saturation warm palette; subtle atmospheric hue as if illuminated by a warm city haze; main light source from upper right with gentle warm rim light on edges.
+动作pixel character, pure white background; keep the original character’s appearance (hairstyle, face shape, jacket color, pants, waist pouch, shoes); change to a punching battle pose: body leaning slightly forward, legs apart in a lunge stance with right leg forward and left leg back; left arm pulled back, right arm fully extended; right fist punching toward the front-right; add strong, exaggerated pixel impact effects (impact lines, debris, vibration dots); clean silhouette, crisp pixel-art style.
